@@ -1,2 +1,1 @@
-# UltrasoundBeamforming
-Ultrasound beam forming techniques I learned in a class called 'Advanced Ultrasound Imaging Techniques.'
+Demo functions for ultrasound beamforming with a linear array 
